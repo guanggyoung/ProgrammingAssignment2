@@ -104,4 +104,4 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-Last updated by guanggyoung for coursera rprog-005 assignment2
+Last updated by guanggyoung for coursera course R Programming programming assignment 2.
